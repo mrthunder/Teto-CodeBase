@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9ebf333714321cd4a86cdd9aba023728
+timeCreated: 1479947126
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_grassTexture: {fileID: 2800000, guid: 360b9f4d5a1b9ae4ba81ee9405675f04, type: 3}
+  - m_grassCutOff: {fileID: 2800000, guid: dfdb85fc05337f6478b86cf2c164e60e, type: 3}
+  - m_LightVein: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
